@@ -7,7 +7,7 @@
       icon: "fa-brands fa-slack",
     },
     { name: "Ultimate Todos", icon: "fa-solid fa-mug-hot" },
-    { name: "Pokemondex", icon: "fa-solid fa-layer-group" },
+    { name: "Pokémondex", icon: "fa-solid fa-layer-group" },
   ];
 
   let benefits = [
