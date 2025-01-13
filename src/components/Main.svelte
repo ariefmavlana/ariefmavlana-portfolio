@@ -6,7 +6,7 @@
       name: "Human Resource Information System",
       icon: "fa-brands fa-slack",
     },
-    { name: "Coffiend | Coffee Tracker", icon: "fa-solid fa-mug-hot" },
+    { name: "Ultimate Todos", icon: "fa-solid fa-mug-hot" },
     { name: "Pokemondex", icon: "fa-solid fa-layer-group" },
   ];
 
